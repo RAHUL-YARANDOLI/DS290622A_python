@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "Raghu",
+        "DOB": "1990-05-15",
+        "Height": 175,
+        "City": "Bengalore",
+        "State": "KA"
+    },
+    {
+        "Name": "Jane Smith",
+        "DOB": "1988-03-20",
+        "Height": 162,
+        "City": "Los Angeles",
+        "State": "CA"
+    },
+    {
+        "Name": "Johnson",
+        "DOB": "1995-09-10",
+        "Height": 180,
+        "City": "Chicago",
+        "State": "IL"
+    },
+    {
+        "Name": "Alice",
+        "DOB": "1992-12-05",
+        "Height": 168,
+        "City": "Houston",
+        "State": "TX"
+    },
+    {
+        "Name": "David",
+        "DOB": "1987-07-25",
+        "Height": 170,
+        "City": "San Francisco",
+        "State": "US"
+    }
+]
